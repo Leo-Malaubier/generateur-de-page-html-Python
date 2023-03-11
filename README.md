@@ -11,3 +11,6 @@ qui montre le fonctionnement général
 -https://youtu.be/9Q2jSRWGCx8
 qui montre l'envoie de mail pour notification
 il est possible que la version disponible ne soit pas exactement la même que dans les vidéo, les fichier du projet on été perdu pour la plus part
+Vous pouvez me contacté grace à mon mail:
+mon mail perso : malaubier.leo@gmail.com 
+ou bien sur mon mail universitaire : 21903309@etu.unicaen.fr
