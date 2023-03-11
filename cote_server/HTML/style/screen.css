@@ -1,0 +1,113 @@
+  /*feuille de style feuille d'actualités du greyc*/
+  body{
+  	font-family:Oswald,sans-serif;
+  }
+  /* en-tÃªte */
+  header{
+  	background-image: url(Ensicaen-Header2.jpg);
+  	background-repeat:no-repeat;
+  	padding:5%;
+  }
+
+  header h1{
+  	font-size: 2em;
+  	color: white;
+  	padding: 2% ;
+  	font-weight:bold;
+  	text-transform:uppercase;
+  	background-color:#78216b;
+  	text-align:center;
+  	width:100%;
+  }
+   /* rubrique */
+   h2{
+  	font-size: 1.2em;
+  	padding:1%;
+  	background-color:#78216b;
+  	color: white;
+   }
+   /* article dans chaque rubrique  plein Ã©cran*/
+  section{
+  	display:grid;
+  	grid-template-columns: 1fr 1fr 1fr;
+  }
+  article{
+  	margin:1%;
+  }
+  h3{
+  	font-size: 1.2em;
+  	color:#78216b;
+  	padding:2%;
+  	border-bottom-style:solid;
+  	border-bottom-width:0.5px;
+  	border-bottom-color:#78216b;
+  	margin-bottom:2%;
+  }
+  article p{
+  	text-align:justify;
+  	font-size:1em;
+  }
+  /* liens */
+  a:visited{
+  	text-decoration:none;
+  	color:#78216b;
+  }
+  a:link{
+  	text-decoration:none;
+  	color:#78216b;
+  }
+  a:hover{
+  	text-decoration:none;
+  	color:black;
+  }
+  /* gestion taille ecran */
+  @media (min-width:400px){
+  	section{
+  		grid-template-columns: 1fr;
+  	}
+  }
+  @media (min-width:800px){
+  	section{
+  		grid-template-columns: 1fr 1fr 1fr;
+  	}
+  	section h2{
+  		grid-row:1;
+  		grid-column : 1 / span 3;
+  	}
+  }
+  aside{
+  	padding:0;
+  	margin:0;
+  	background-color:white;
+  }
+  aside a img{
+  	 width:32px;
+  	 vertical-align:middle;
+  }
+  aside a:first-of-type img{
+  	 width:250px;
+  	 border-style:none;
+  }
+  footer {
+  	background-color:#78216b;
+  	padding:1%;
+  	margin:1%;
+  	border-radius:40px;
+  	text-align:center;
+  }
+  footer a:link,  footer a:visited{
+  	color:aliceblue;
+  }
+  footer a:hover{
+  	color:black;
+  }
+  footer p{
+  	border-radius:40px;
+  	border-style:solid;
+  	border-color:white;
+  	font-size: 1em;
+  	text-align:center;
+  	margin-left:15%;
+  	margin-right:15%;
+  	padding:1%;
+  	}
