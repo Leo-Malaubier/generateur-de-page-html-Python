@@ -2,7 +2,7 @@
 petit projet réalisé en 2022 pour l'université de Caen (posté en 2023)
 logiciel permettant de remplire un fichier xlsx/csv et d'en générer un fichier html que l'on peux mettre sur un site internet. 
 et qui envoie une notification par mail du nouveaux site. 
-je n'est plus le rapport
+vous pouvez consulter le raport 
 cependant, j'avais réalisé 2 vidéo pour montré le fonctionnement du logiciel
 ce logiciel n'avais pas été fini . 
 voici les deux vidéo:
