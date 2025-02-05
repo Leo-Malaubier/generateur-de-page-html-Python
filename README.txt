@@ -1,16 +1,15 @@
-# projet-de-g-n-ration-de-page-automatique
-petit projet réalisé en 2022 pour l'université de Caen (posté en 2023)
-logiciel permettant de remplire un fichier xlsx/csv et d'en générer un fichier html que l'on peux mettre sur un site internet. 
-et qui envoie une notification par mail du nouveaux site. 
-vous pouvez consulter le raport 
-cependant, j'avais réalisé 2 vidéo pour montré le fonctionnement du logiciel
-ce logiciel n'avais pas été fini . 
-voici les deux vidéo:
--https://youtu.be/HJRj7012bjw 
-qui montre le fonctionnement général
--https://youtu.be/9Q2jSRWGCx8
-qui montre l'envoie de mail pour notification
-il est possible que la version disponible ne soit pas exactement la même que dans les vidéo, les fichier du projet on été perdu pour la plus part
-Vous pouvez me contacté grace à mon mail:
-mon mail perso : malaubier.leo@gmail.com 
-ou bien sur mon mail universitaire : 21903309@etu.unicaen.fr
+Projet de Génération de Page Automatique
+Ce petit projet, réalisé en 2022 pour l'Université de Caen (posté en 2023), consiste en un logiciel permettant de remplir un fichier XLSX/CSV et de générer un fichier HTML prêt à être publié sur un site internet. En plus de cela, le logiciel envoie une notification par mail pour informer de la mise en ligne du nouveau site.
+
+Fonctionnalités principales :
+Génération de fichiers HTML : L'utilisateur peut remplir un fichier au format XLSX/CSV pour générer un fichier HTML automatiquement, adapté à une mise en ligne sur un site internet.
+Notification par email : Une fois la génération de la page terminée, une notification par mail est envoyée pour informer de la mise à jour du site.
+Informations complémentaires :
+Le projet n’a pas été entièrement terminé, et certaines fonctionnalités sont incomplètes.
+Deux vidéos ont été réalisées pour démontrer le fonctionnement du logiciel :
+Vidéo 1 - https://youtu.be/HJRj7012bjw 
+Vidéo 2 - https://youtu.be/9Q2jSRWGCx8 (envoie de mail)
+Il est possible que la version disponible ne soit pas exactement la même que celle montrée dans les vidéos, car une partie des fichiers du projet a été perdue.
+Contact :
+Vous pouvez me contacter par email à l'adresse suivante :
+Email personnel : malaubier.leo@gmail.com
